@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+}
+.container{
+
+
+    text-align: center;
+    background-color: bisque;
+    width: 100vw;
+    height: 100vh;
+    
+
+}
+button{
+    background-color: aqua;
+    height: 5vh;
+}
